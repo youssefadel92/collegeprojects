@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1544707280 source:c:\users\test\desktop\new folder\new folder (2)\wwwww\src\dna.cpp
+	"DNA.h"
+	<iostream>
+
+1544706046 c:\users\test\desktop\new folder\new folder (2)\wwwww\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	"string.h"
+
+1544706923 c:\users\test\desktop\new folder\new folder (2)\wwwww\include\sequence.h
+	<exception>
+
+1544706923 source:c:\users\test\desktop\new folder\new folder (2)\wwwww\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1544706160 source:c:\users\test\desktop\new folder\new folder (2)\wwwww\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	<string>
+	<fstream>
+	"Protien.h"
+	"Codons.h"
+
+1544707315 c:\users\test\desktop\new folder\new folder (2)\wwwww\include\rna.h
+	"DNA.h"
+	"Sequence.h"
+	"Codons.h"
+
+1544707315 source:c:\users\test\desktop\new folder\new folder (2)\wwwww\src\rna.cpp
+	"RNA.h"
+	<iostream>
+
+1544706732 source:c:\users\test\desktop\new folder\new folder (2)\wwwww\src\protien.cpp
+	"Protien.h"
+	<iostream>
+
+1544706732 c:\users\test\desktop\new folder\new folder (2)\wwwww\include\protien.h
+	"DNA.h"
+	"Sequence.h"
+	"Codons.h"
+
+1544641014 source:c:\users\test\desktop\new folder\new folder (2)\wwwww\src\codons.cpp
+	"Codons.h"
+	<string>
+	<iostream>
+
+1544281733 c:\users\test\desktop\new folder\new folder (2)\wwwww\include\codons.h
+	<string>
+	<fstream>
+
+1544706160 source:d:\college\csramly\new folder (2)\wwwww\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	<string>
+	<fstream>
+	"Protien.h"
+	"Codons.h"
+
+1544706923 d:\college\csramly\new folder (2)\wwwww\include\sequence.h
+	<exception>
+
+1544706046 d:\college\csramly\new folder (2)\wwwww\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	"string.h"
+
+1544707315 d:\college\csramly\new folder (2)\wwwww\include\rna.h
+	"DNA.h"
+	"Sequence.h"
+	"Codons.h"
+
+1544281733 d:\college\csramly\new folder (2)\wwwww\include\codons.h
+	<string>
+	<fstream>
+
+1544706732 d:\college\csramly\new folder (2)\wwwww\include\protien.h
+	"DNA.h"
+	"Sequence.h"
+	"Codons.h"
+
+1544641014 source:d:\college\csramly\new folder (2)\wwwww\src\codons.cpp
+	"Codons.h"
+	<string>
+	<iostream>
+
+1544707280 source:d:\college\csramly\new folder (2)\wwwww\src\dna.cpp
+	"DNA.h"
+	<iostream>
+
+1544706732 source:d:\college\csramly\new folder (2)\wwwww\src\protien.cpp
+	"Protien.h"
+	<iostream>
+
+1544707315 source:d:\college\csramly\new folder (2)\wwwww\src\rna.cpp
+	"RNA.h"
+	<iostream>
+
+1544706923 source:d:\college\csramly\new folder (2)\wwwww\src\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+
